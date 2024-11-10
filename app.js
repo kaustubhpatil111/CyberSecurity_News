@@ -1,5 +1,5 @@
 const NEWS_API_KEY = '7b25a46ee1504776b141fb0da6acb109'; // NewsAPI key
-const CORS_PROXY = 'https://localhost:8080/'; // Use a CORS proxy
+const CORS_PROXY = 'http://localhost:8080/'; // Use a CORS proxy
 
 const newsContainer = document.getElementById('news-container');
 const topNewsContainer = document.getElementById('top-news-container');
